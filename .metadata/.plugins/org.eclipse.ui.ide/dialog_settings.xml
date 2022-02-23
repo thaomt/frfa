@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_SeleniumWeb_Day09"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_SeleniumWeb_AssFinal"/>
+			<item value="C:\Users\thaoc\OneDrive\Máy tính\tkxdpm-khmt-k62c-03\Final\Projects"/>
+			<item value="C:\Users\thaoc\Downloads\SSBSE-Research-2021-crossover-replication-v1.0.0\mitchellolsthoorn-SSBSE-Research-2021-crossover-replication-1c552ac\subjects\components\code"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Appium_Day01"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Assignment_Day01"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Assignment_Final"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_SeleniumWeb_Final_exam\ThaoMT8_SeleniumWeb_Day09"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_SeleniumWeb_Day02"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_SeleniumWeb_Day08"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_SeleniumWeb_Final_exam"/>
+			<item value="C:\Users\thaoc\Downloads\[HuyenLT25]_Assigment_FinalExam"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Assignment_Day07"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\AssigmentJV"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Assignment_Day09"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\AssigmentDay09JV"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Assignment_Day08"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Assignment_Day05"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Assignment_Day03"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Assignment_Day06"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Assignment_Day04"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Assignmnet_Day01"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Assignment_Day02"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Final_Exam_java"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Assignment_Final_java"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Assigment_java"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\Test_json"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Assigment_Final"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Assigment_Day08"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Assigment_Day09"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Assigment_Day10"/>
+			<item value="C:\Users\thaoc\Downloads\ExcelProjectWrite"/>
+			<item value="C:\Users\thaoc\Videos\fresher_automation_test\java\ThaoMT8_Assigment_Day02"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\TestCombineAlgorithm"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\TestGen"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\newTest"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\testcase-auto-generation-pso"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\testcase-auto-generation-dev_SA"/>
+			<item value="C:\Users\thaoc\OneDrive\Máy tính\testcase-auto-generation"/>
+			<item value="C:\Users\thaoc\Downloads\testcase-auto-generation-dev_SA"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\CreateTest"/>
+			<item value="C:\Users\thaoc\Downloads\solving-tsp-with-genetic-algorithms"/>
+			<item value="D:\testcase-auto-generation"/>
+			<item value="C:\Users\thaoc\git\testcase-auto-generation"/>
+			<item value="C:\Users\thaoc\Downloads\SimulatedAnnealing-master"/>
+			<item value="C:\Users\thaoc\Downloads\testcase-auto-generation\src\GeneticAlgorithm"/>
+			<item value="C:\Users\thaoc\Downloads\testcase-auto-generation"/>
+			<item value="C:\Users\thaoc\Downloads\testcase-auto-generation-master"/>
+			<item value="C:\Users\thaoc\Downloads\OptimizationAlgorithms-master"/>
+			<item value="C:\Users\thaoc\Downloads\Hill-climber-and-Simulated-annealing-master"/>
+			<item value="C:\Users\thaoc\Downloads\LocalSearchAlgorithms-master"/>
+			<item value="C:\Users\thaoc\Downloads\AutomationTesting-master\Final_AutomationTesting"/>
+			<item value="C:\Users\thaoc\Videos\đồ án\GenerationAlgorithm\Final_AutomationTesting"/>
+			<item value="C:\Users\thaoc\Videos\đồ án\GenerationAlgorithm"/>
+			<item value="C:\Users\thaoc\Downloads\dp.20202.case-study-main"/>
+			<item value="C:\Users\thaoc\Videos\đồ án\AutomationTesting-master\Final_AutomationTesting"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\27_ThaoMT_QuanLyBanHang"/>
+			<item value="C:\Users\thaoc\Videos\đồ án\AutomationTesting\AutomationTesting-master\Final_AutomationTesting_build"/>
+			<item value="C:\Users\thaoc\Videos\đồ án\AutomationTesting\AutomationTesting-master\Final_AutomationTesting"/>
+			<item value="C:\Users\thaoc\Videos\đồ án\AutomationTesting"/>
+			<item value="C:\Users\thaoc\Downloads\SoftwareDesignAndConstruction-master\Lab05-OMSVirtualServer"/>
+			<item value="C:\Users\thaoc\Downloads\SoftwareDesignAndConstruction-master\Lab05-OMSApp"/>
+			<item value="C:\Users\thaoc\Downloads\SoftwareDesignAndConstruction-master"/>
+			<item value="C:\Users\thaoc\Downloads\RecyclerViewSeries"/>
+			<item value="C:\Users\thaoc\Downloads\GreenShop-Java\GreenShop"/>
+			<item value="C:\Users\thaoc\Downloads\GreenShop-Java"/>
+			<item value="C:\Users\thaoc\OneDrive\Máy tính\20173382_code_Lab05"/>
+			<item value="C:\Users\thaoc\OneDrive\Máy tính\Lab05-OMSVirtualServer"/>
+			<item value="C:\Users\thaoc\OneDrive\Máy tính\Lab05-OMSApp"/>
+			<item value="C:\Users\thaoc\Downloads\JavaMiniProject01\NhapTTSV"/>
+			<item value="C:\Users\thaoc\Downloads\JavaMiniProject01"/>
+			<item value="C:\Users\thaoc\Downloads\Lab05"/>
+			<item value="C:\Users\thaoc\OneDrive\Máy tính\s\tkxdpm-khmt-k62c-03\Final\Projects"/>
+			<item value="C:\Users\thaoc\OneDrive\Máy tính\n\tkxdpm-khmt-k62c-03\Final\Projects"/>
+			<item value="C:\Users\thaoc\OneDrive\Máy tính\b\tkxdpm-khmt-k62c-03\Final\Projects"/>
+			<item value="C:\Users\thaoc\OneDrive\Máy tính\a\tkxdpm-khmt-k62c-03\Final\Projects"/>
+			<item value="C:\Users\thaoc\OneDrive\Máy tính\q\tkxdpm-khmt-k62c-03\Final\Projects"/>
+			<item value="C:\Users\thaoc\OneDrive\Máy tính\fl\tkxdpm-khmt-k62c-03\Final\Projects"/>
+			<item value="C:\Users\thaoc\OneDrive\Máy tính\New folder (2)\tkxdpm-khmt-k62c-03\Final\Projects\BankAPI"/>
+			<item value="C:\Users\thaoc\OneDrive\Máy tính\New folder (2)\tkxdpm-khmt-k62c-03\Final\Projects\Assigment5_Server"/>
+			<item value="C:\Users\thaoc\OneDrive\Máy tính\New folder (2)\tkxdpm-khmt-k62c-03\Final\Projects\Assigment 5"/>
+			<item value="C:\Users\thaoc\OneDrive\Máy tính\New folder (2)\tkxdpm-khmt-k62c-03\Final\Projects"/>
+			<item value="C:\Users\thaoc\Downloads\Card"/>
+			<item value="C:\Users\thaoc\Downloads\ThueXe"/>
+			<item value="C:\Users\thaoc\Downloads\Lab05\Lab05"/>
+			<item value="C:\Users\thaoc\Downloads\Lab04\Lab04\package com.oms.serverapi.test"/>
+			<item value="C:\Users\thaoc\Downloads\Lab04\Lab04"/>
+			<item value="C:\Users\thaoc\Downloads\Lab03_1\Lab03"/>
+			<item value="C:\Users\thaoc\Downloads\20173382_Lab03\20173382_Lab03\Lab03-OMSVirtualServer1"/>
+			<item value="C:\Users\thaoc\Downloads\20173382_Lab03\20173382_Lab03\Lab03-OMSApp1"/>
+			<item value="C:\Users\thaoc\Downloads\20173382_Lab03\20173382_Lab03"/>
+			<item value="C:\Users\thaoc\Downloads\assigment5"/>
+			<item value="C:\Users\thaoc\Downloads\20173382_Lab03"/>
+			<item value="C:\Users\thaoc\Downloads\Lab03\Lab03\Lab03-OMSVirtualServer"/>
+			<item value="C:\Users\thaoc\Downloads\ShopBasket\ShopBasket"/>
+			<item value="C:\Users\thaoc\Downloads\test"/>
+			<item value="C:\Users\thaoc\Downloads\Apriori"/>
+			<item value="C:\Users\thaoc\Downloads\Lab03\Lab03\Lab03-OMSApp"/>
+			<item value="C:\Users\thaoc\Downloads\ToanTu"/>
+			<item value="C:\Users\thaoc\Downloads\BTVN_05_LeVanLoi"/>
+			<item value="C:\Users\thaoc\Downloads\Gallery"/>
+			<item value="C:\Users\thaoc\Downloads\01_LeBaoChau"/>
+			<item value="C:\Users\thaoc\Downloads\Đậu Ngọc Dương_Buổi 4"/>
+			<item value="C:\Users\thaoc\Downloads\sampleBuoi4"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\27_Bai1_Buoi3"/>
+			<item value="C:\Users\thaoc\Music\Test"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\Test"/>
+			<item value="C:\Users\thaoc\Downloads\TestProject"/>
+			<item value="C:\Users\thaoc\Downloads\Parking-Management-System"/>
+		</list>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="662"/>
+		<item key="DIALOG_HEIGHT" value="434"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

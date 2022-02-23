@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;utiliti&apos; to &apos;ThaoMT8_Assignment_Day09/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;ThaoMT8_Assignment_Day08&apos;&#x0D;&#x0A;- Destination element: &apos;ThaoMT8_Assignment_Day09/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;ThaoMT8_Assignment_Day08/src/main/java/utiliti&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=ThaoMT8_Assignment_Day09/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;utiliti" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1633913264975" version="1.0"/>
+</session>

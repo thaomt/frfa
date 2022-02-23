@@ -1,0 +1,31 @@
+import GeneticAlgorithm.InstrumentCode.*;
+
+public class DateUtil instantiates BranchInstrumentor{
+	public DateUtil() {
+	// TODO Auto-generated constructor stub
+	}
+	
+	public int daysInMonth(MyDate date) {
+		if (date.getMonth() <= 0 || date.getMonth() > 12) 
+			return -1;
+		if (date.getMonth() == 2) {
+			if (date.isLeapYear())
+				return 29;
+			else {
+				return 28;
+			}
+		}
+		if (date.getMonth() <= 7) {
+			if (date.getMonth() % 2 == 1)
+				return 31;
+			else {
+				return 30;
+			}
+		}
+		if (date.getMonth() % 2 == 0)
+			return 31;
+		else {
+			return 30;
+		}
+	}
+}

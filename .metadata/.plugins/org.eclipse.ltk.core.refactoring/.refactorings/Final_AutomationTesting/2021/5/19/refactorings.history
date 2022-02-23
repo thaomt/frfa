@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ComparatorUtils.oj&apos; to &apos;CreateTest/src&apos;&#x0D;&#x0A;- Original project: &apos;Final_AutomationTesting&apos;&#x0D;&#x0A;- Destination element: &apos;CreateTest/src&apos;&#x0D;&#x0A;- Original element: &apos;ComparatorUtils.oj&apos;" description="Copy file" destination="=CreateTest/src" element1="src/ComparatorUtils.oj" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1620488522751" units="0" version="1.0"/>
+</session>

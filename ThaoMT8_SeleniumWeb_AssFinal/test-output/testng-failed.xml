@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="ChromeTest(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="test.ProductPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="TC05_verifyProductsPage"/>
+          <include name="setUp"/>
+          <include name="TC06_07"/>
+        </methods>
+      </class> <!-- test.ProductPageTest -->
+      <class name="test.ProductCategoriesTest">
+        <methods>
+          <include name="TC03_1"/>
+          <include name="tearDown"/>
+          <include name="TC03_2toTC04"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- test.ProductCategoriesTest -->
+      <class name="test.AtributePageTest">
+        <methods>
+          <include name="TC10_verifyNewCreateAttribute"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- test.AtributePageTest -->
+      <class name="test.AtributeGroupTest">
+        <methods>
+          <include name="TC08_verifyAttributeGroupPage"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="TC09_verifyCreateNewAttributeGroup"/>
+        </methods>
+      </class> <!-- test.AtributeGroupTest -->
+      <class name="test.LoginTest">
+        <methods>
+          <include name="TC01_verifyLoginPage"/>
+          <include name="tearDown"/>
+          <include name="TC02_verifyLoginSuccess"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- test.LoginTest -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

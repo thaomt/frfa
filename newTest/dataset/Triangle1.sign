@@ -1,0 +1,7 @@
+Triangle1.Triangle1()
+Triangle1.Triangle1(int,int,int)
+Triangle1.Triangle1(int,int)
+Triangle1.Triangle1(int)
+Triangle1.setSide1(int)
+Triangle1.setSide2(int)
+Triangle1.setSide3(int)

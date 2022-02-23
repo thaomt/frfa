@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-28T22:57:22 ICT" name="Suite2" finished-at="2021-09-28T22:57:23 ICT" duration-ms="768">
+    <groups>
+    </groups>
+    <test started-at="2021-09-28T22:57:22 ICT" name="Test2" finished-at="2021-09-28T22:57:23 ICT" duration-ms="768">
+      <class name="exercise_3.DataProviders">
+        <test-method signature="testDataProviderWithJson(java.lang.Object,java.lang.Object)[pri:0, instance:exercise_3.DataProviders@78ffe6dc]" started-at="2021-09-28T22:57:22 ICT" name="testDataProviderWithJson" data-provider="getData" finished-at="2021-09-28T22:57:22 ICT" duration-ms="54" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["red"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["#f00"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataProviderWithJson -->
+        <test-method signature="testDataProviderWithJson(java.lang.Object,java.lang.Object)[pri:0, instance:exercise_3.DataProviders@78ffe6dc]" started-at="2021-09-28T22:57:22 ICT" name="testDataProviderWithJson" data-provider="getData" finished-at="2021-09-28T22:57:22 ICT" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["green"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["#0f0"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataProviderWithJson -->
+        <test-method signature="testDataProviderWithJson(java.lang.Object,java.lang.Object)[pri:0, instance:exercise_3.DataProviders@78ffe6dc]" started-at="2021-09-28T22:57:22 ICT" name="testDataProviderWithJson" data-provider="getData" finished-at="2021-09-28T22:57:22 ICT" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["blue"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["#00f"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataProviderWithJson -->
+        <test-method signature="testDataProviderWithJson(java.lang.Object,java.lang.Object)[pri:0, instance:exercise_3.DataProviders@78ffe6dc]" started-at="2021-09-28T22:57:22 ICT" name="testDataProviderWithJson" data-provider="getData" finished-at="2021-09-28T22:57:22 ICT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["cyan"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["#0ff"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataProviderWithJson -->
+        <test-method signature="testDataProviderWithJson(java.lang.Object,java.lang.Object)[pri:0, instance:exercise_3.DataProviders@78ffe6dc]" started-at="2021-09-28T22:57:22 ICT" name="testDataProviderWithJson" data-provider="getData" finished-at="2021-09-28T22:57:22 ICT" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["magenta"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["#f0f"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataProviderWithJson -->
+        <test-method signature="testDataProviderWithJson(java.lang.Object,java.lang.Object)[pri:0, instance:exercise_3.DataProviders@78ffe6dc]" started-at="2021-09-28T22:57:22 ICT" name="testDataProviderWithJson" data-provider="getData" finished-at="2021-09-28T22:57:22 ICT" duration-ms="21" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["yellow"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["#ff0"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataProviderWithJson -->
+        <test-method signature="testDataProviderWithJson(java.lang.Object,java.lang.Object)[pri:0, instance:exercise_3.DataProviders@78ffe6dc]" started-at="2021-09-28T22:57:22 ICT" name="testDataProviderWithJson" data-provider="getData" finished-at="2021-09-28T22:57:23 ICT" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["black"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["#000"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataProviderWithJson -->
+      </class> <!-- exercise_3.DataProviders -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite2 -->
+</testng-results>

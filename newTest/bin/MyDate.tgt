@@ -1,0 +1,12 @@
+MyDate.MyDate(): 1
+MyDate.MyDate(int,int,int): 2
+MyDate.setMonth(int): 3
+MyDate.setDay(int): 4
+MyDate.setYear(int): 5
+MyDate.setAsLastDayOfFebruaryInLeapYear(): 6
+MyDate.setAsLastDayOfFebruaryInNonLeapYear(): 7
+MyDate.setAsLastDayOfYear(): 8
+MyDate.getDay(): 9
+MyDate.getMonth(): 10
+MyDate.getYear(): 11
+MyDate.isLeapYear(): 12

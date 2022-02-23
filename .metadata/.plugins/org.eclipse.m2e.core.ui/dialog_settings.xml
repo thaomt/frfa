@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Assignment_Day05\src\main\java\exercise_2\stepdefine\Step.java"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Assignment_Day02\src\main\java\exercise_4\Test_04.java"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_SeleniumWeb_Final_exam\pom.xml"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Assignment_Day01\pom.xml"/>
+			<item value="C:\Users\thaoc\eclipse-workspace\ThaoMT8_Assignment_Day06\testng.xml"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="https://repo1.maven.org/maven2/archetype-catalog.xml"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="test_Exel_Selenium"/>
+			<item value="com"/>
+			<item value="ThaoMT8_Assignment_Day02"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="test_Exel_Selenium"/>
+			<item value="ThaoMT8_Final_exam"/>
+			<item value="ThaoMT8_Assignment_Final"/>
+			<item value="ThaoMT8_Assignment_Day05"/>
+			<item value="ThaoMT8_Assignment_Day04"/>
+			<item value="ThaoMT8_Assignment_Day03"/>
+			<item value="ThaoMT8_Assignment_Day02"/>
+			<item value="ThaoMT8"/>
+			<item value="ThaoMT8_Assignment_Day01"/>
+			<item value="ThaoMT8_Assignment_Day09"/>
+			<item value="ThaoMT8_Assignment_Day08"/>
+			<item value="ThaoMT8_Assignment_Day07"/>
+			<item value="ThaoMT8_Assignment_Day06"/>
+			<item value="exercise"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="667"/>
+		<item key="x" value="1257"/>
+		<item key="y" value="309"/>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.EditDependencyDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="450"/>
+		<item key="x" value="720"/>
+		<item key="y" value="215"/>
+	</section>
+</section>

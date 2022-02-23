@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Dimension.java&apos; to &apos;Assigment5_Server/src/com.oms.bean&apos;&#x0D;&#x0A;- Original project: &apos;Lab04-OMSVirtualServer&apos;&#x0D;&#x0A;- Destination element: &apos;Assigment5_Server/src/com.oms.bean&apos;&#x0D;&#x0A;- Original element: &apos;com.oms.bean.Dimension.java&apos;" description="Copy compilation unit" destination="=Assigment5_Server/src&lt;com.oms.bean" element1="/src&lt;com.oms.bean{Dimension.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1607858147574" units="1" version="1.0"/>
+</session>

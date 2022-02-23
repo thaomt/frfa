@@ -1,0 +1,7 @@
+NextDate.NextDate(int,int,int)
+NextDate.nextDate()
+NextDate.setDay(int)
+NextDate.setMonth(int)
+NextDate.setYear(int)
+NextDate.setYearAsLeapYear()
+NextDate.setMonthAsFebruary()

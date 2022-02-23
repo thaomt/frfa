@@ -1,0 +1,6 @@
+Point.Point(): 1
+Point.Point(int,int): 2
+Point.getX(): 3
+Point.setX(int): 4
+Point.getY(): 5
+Point.setY(int): 6

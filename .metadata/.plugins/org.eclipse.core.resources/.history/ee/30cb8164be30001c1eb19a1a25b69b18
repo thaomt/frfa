@@ -1,0 +1,47 @@
+package exercise_2;
+
+import java.net.MalformedURLException;
+import java.net.URL;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Test;
+
+import io.appium.java_client.android.AndroidDriver;
+
+public class Test_02 {
+	AndroidDriver<WebElement> driver;
+	@BeforeMethod
+	public void setup() throws MalformedURLException {
+		DesiredCapabilities capabilities = new DesiredCapabilities();
+		capabilities.setCapability("deviceName", "Pixel 2 API 28 2");
+		capabilities.setCapability("platformName", "Android");
+		capabilities.setCapability("automationName", "UIAutomator2");
+		capabilities.setCapability("browserName","Chrome");
+		capabilities.setCapability("chromedriverExecutable","C:\\Users\\thaoc\\Downloads\\chromedriver_win32\\chromedriver.exe");
+		URL url = new URL("http://0.0.0.0:4723/wd/hub");
+
+		driver = new AndroidDriver<WebElement>(url, capabilities);
+	}
+	@Test
+	public void test() throws InterruptedException {
+		driver.get("https://shopee.vn/");
+//		Thread.sleep(3000);
+//		WebElement shopMell=driver.findElementByXPath("//android.view.View[@content-desc=\"Shopee Mall Shopee Mall\"]/android.view.View[1]/android.widget.Image");
+//		shopMell.click();
+//		Thread.sleep(3000);
+//		WebElement nha=driver.findElementByXPath("/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[2]/android.view.View[2]/android.view.View/android.view.View/android.view.View[5]/android.view.View/android.view.View/android.view.View[2]/android.view.View");
+//		nha.click();
+		//Verify product image, product name and product price must be displayed.
+		
+
+		
+		
+	}
+	@AfterMethod
+	public void teardown() {
+		//driver.quit();
+	}
+
+}

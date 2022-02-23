@@ -1,0 +1,23 @@
+package page;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+
+import core.BasePage;
+public class GooglePage extends BasePage{
+	public GooglePage(WebDriver driver) {
+		super(driver);
+	}
+	//By btnInput=By.xpath("//input[@name='q']");
+	public void inputValue(By input,String value) {
+		WebElement inputBox = driver.findElement(input);
+        // search value in google search box
+		inputBox.sendKeys(value);
+	}
+	public String checkResult() {
+		String actualResult=driver.getTitle();
+		return actualResult;
+	}
+
+}

@@ -1,0 +1,62 @@
+import GeneticAlgorithm.InstrumentCode.*;
+
+public class MyDate instantiates BranchInstrumentor{
+	private int month;
+	private int year;
+	private int day;
+	
+	public MyDate() {
+		
+	}
+	
+	public MyDate(int month, int day, int year) {
+		this.day = day;
+		this.month = month;
+		this.year = year;
+	}
+	
+	public void setMonth(int month) {
+		this.month = month;
+	}
+	
+	public void setDay(int day) {
+		this.day = day;
+	}
+	
+	public void setYear(int year) {
+		this.year = year;
+	}
+	
+	public void setAsLastDayOfFebruaryInLeapYear() {
+		this.month = 2;
+		this.year = 2000;
+		this.day = 29;
+	}
+	
+	public void setAsLastDayOfFebruaryInNonLeapYear() {
+		this.month = 2;
+		this.year = 2001;
+		this.day = 28;
+	}
+	
+	public void setAsLastDayOfYear() {
+		this.month = 12;
+		this.day = 31;
+	}
+	
+	public int getDay() {
+		return this.day;
+	}
+	
+	public int getMonth() {
+		return this.month;
+	}
+	
+	public int getYear() {
+		return this.year;
+	}
+	
+	public boolean isLeapYear() {
+		return this.year % 400 == 0 || (this.year % 4 == 0 && this.year % 100 != 0);
+	}
+}

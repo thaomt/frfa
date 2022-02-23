@@ -1,0 +1,4 @@
+MyInt.MyInt()
+MyInt.MyInt(int)
+MyInt.getNumber()
+MyInt.setNumber(int)
